@@ -12,7 +12,10 @@ Make Deezer great again by blocking the ads and other annoyances.
 
 Deezer started with version 1.4.x.x to rollout login captcha worldwide, which means external apps like Deez(e)rLoader might fail to login or you're forced to solve CAPTCHAS after each downloaded song/album.
 
-Known non-wprking countries:
+Known non-working countries:
+* France
+* Russia
+* Germany
 * Netherlands
 * UK
 * USA 
