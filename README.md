@@ -26,5 +26,11 @@ Known non-working countries:
 Tested:
 * Swiss/US/Canada & UK with VPN
 
+
+### Login with username/pass vs. userToken?
+
+For [several functions you need a userToken](http://developers.deezer.com/inapp/config/permissions) in order to allow Deezer to read e.g. the access token. 
+
+
 Reference:
-* [DeezloaderRemix (https://notabug.org)](https://notabug.org/RemixDevs/DeezloaderRemix)
+* [DeezloaderRemix (notabug.org)](https://notabug.org/RemixDevs/DeezloaderRemix)
