@@ -24,5 +24,7 @@ Known non-working countries:
 * Others (w/wo VPN) (_needs confirmation_)
 
 Tested:
-* Swiss with VPN
+* Swiss/US/Canada & UK with VPN
 
+Reference:
+* [DeezloaderRemix (https://notabug.org)](https://notabug.org/RemixDevs/DeezloaderRemix)
