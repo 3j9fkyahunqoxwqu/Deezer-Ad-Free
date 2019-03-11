@@ -1,0 +1,64 @@
+v0.0.0.5
+
+# Website 
+www.deezer.com
+dealer.spotify.com
+
+# Login & Misc
+web.geo.deezer.com
+www.deezer.com.edgekey.net
+e28200.a.akamaiedge.net
+
+# CDN
+e-cdn-proxy-a.deezer.com
+e-cdn-proxy-1.deezer.com
+e-cdn-proxy-2.deezer.com
+e-cdn-proxy-3.deezer.com
+e-cdn-proxy-4.deezer.com
+e-cdn-proxy-5.deezer.com
+e-cdn-proxy-6.deezer.com
+e-cdn-proxy-7.deezer.com
+e-cdn-proxy-8.deezer.com
+e-cdn-proxy-9.deezer.com
+e-cdn-proxy-f.deezer.com
+e-cdn-proxy-b.deezer.com
+e-cdn-proxy-c.deezer.com
+e-cdn-proxy-e.deezer.com
+
+cs439.wpc.4d34.edgecastcdn.net
+cs439.wpc.edgecastcdn.net
+
+
+# Update
+78.40.123.182
+78.40.123.183
+
+# Server France 
+dzr-viplb-01.ig-1.net
+blm-pm-02.ig-1.net
+
+# Server US
+ig1-vipwfilter-02.ig-1.net
+
+
+# Host (including partners)
+ns-1094.awsdns-08.org
+ns-28.awsdns-03.com
+ns-1733.awsdns-24.co.uk
+ns-690.awsdns-22.net
+28.awsdns-03.com
+ns-02.ig-1.net
+ns-340.awsdns-42.com
+ns-1072.awsdns-06.org
+ns-672.awsdns-20.net
+ns-1935.awsdns-49.co.uk
+aspmx.l.google.com
+340.awsdns-42.com
+
+
+# Images
+e-cdns-images.dzcdn.net
+cs659.wac.edgecastcdn.net
+
+# Comment(s)
+messaging.deezer.com

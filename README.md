@@ -10,7 +10,7 @@ Make Deezer great again by blocking the ads and other annoyances.
 
 ### DeezLoader 2.1.8 and CAPTCHAS
 
-Deezer started with version 1.4.x.x to rollout login captcha worldwide, which means external apps like Deez(e)rLoader might fail to login or you're forced to solve CAPTCHAS after each downloaded song/album.
+Deezer started with version 1.4.x.x to rollout login [Captcha](https://en.wikipedia.org/wiki/CAPTCHA) world-wide, which means external apps like Deez(er)Loader might fail to login or you're forced to solve CAPTCHAS after each downloaded song/album.
 
 Known non-working countries:
 * France
@@ -25,13 +25,4 @@ Known non-working countries:
 
 Tested:
 * Swiss with VPN
-
-
-### ToDO
-- [ ] Add hosts 
-- [ ]  Add ad-blocking rules
-- [ ]  IP rules (?)
-- [ ]  Firewall rules (?)
-- [ ]  Add decrypter (not allowed by GitHub ToS)
-- [ ]  Add Android/Windows mods/scripts
 
