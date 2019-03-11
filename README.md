@@ -29,8 +29,9 @@ Tested:
 
 ### Login with username/pass vs. userToken?
 
-For [several functions you need a userToken](http://developers.deezer.com/inapp/config/permissions) in order to allow Deezer to read e.g. the access token. 
+For [several functions you need a userToken](http://developers.deezer.com/inapp/config/permissions) in order to allow Deezer to read e.g. the access token. The login itself might need `127.0.0.1:1730` unblocked in order to receive your token.
 
 
 Reference:
 * [DeezloaderRemix (notabug.org)](https://notabug.org/RemixDevs/DeezloaderRemix)
+* [DeezLoader-Android (gitlab.com)](https://gitlab.com/Nick80835/DeezLoader-Android)
