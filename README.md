@@ -27,9 +27,12 @@ Tested:
 * Swiss/US/Canada & UK with VPN
 
 
-### Login with username/pass vs. userToken?
+### Login with username/pass Vs. userToken?
 
 For [several functions you need a userToken](http://developers.deezer.com/inapp/config/permissions) in order to allow Deezer to read e.g. the access token. The login itself might need `127.0.0.1:1730` unblocked in order to receive your token.
+
+Test token:
+`f6dc5be19b685b1186828b5a1b28507b2e7ae1d74d457f9ef51fcd9477ebb9dbd3b8539b051c5e399557b2f04c6b0d4808c8610b878e23a3a1c350ecaf441eee6a594d889355dd542ee54436b6e02bc9a3da18a524e669c5ed2c8231cefa01ed`
 
 
 Reference:
